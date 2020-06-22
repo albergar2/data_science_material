@@ -10,7 +10,7 @@ This project includes Jupyter Notebooks for most of the topics covered in the [3
          * [Linear Regression](https://github.com/albergar2/data_science_material/blob/master/ML/supervised/01-linear_regression.ipynb)
          * [Logistic Regression](https://github.com/albergar2/data_science_material/blob/master/ML/supervised/02-logistic_regression.ipynb)
          * [Decision Tree](https://github.com/albergar2/data_science_material/blob/master/ML/supervised/03-decision_tree.ipynb)
-         * [Random Forest](https://github.com/albergar2/data_science_material/blob/master/ML/supervised/04-random_forest.ipynb)
+         * [Ensemble Methods](https://github.com/albergar2/data_science_material/blob/master/ML/supervised/04-ensemble_methods.ipynb)
  
 ## Author
 * **Alberto Garcia Hernandez** 
